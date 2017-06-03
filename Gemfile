@@ -20,6 +20,10 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
+# Use simple_form
+gem 'simple_form'
+# Use devise for user sign_in/sign_out
+gem 'devise'
 # Use tether
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
