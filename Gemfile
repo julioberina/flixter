@@ -24,6 +24,8 @@ gem 'coffee-rails', '~> 4.2'
 gem 'simple_form'
 # Use Carrierwave for image uploading
 gem 'carrierwave', '~> 1.0'
+# Use Carrierwave-AWS for video uploading
+gem 'carrierwave-aws'
 # Use MiniMagick
 gem 'mini_magick'
 # Use devise for user sign_in/sign_out
