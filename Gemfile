@@ -22,8 +22,16 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 # Use simple_form
 gem 'simple_form'
+# Use Carrierwave for image uploading
+gem 'carrierwave', '~> 1.0'
+# Use MiniMagick
+gem 'mini_magick'
 # Use devise for user sign_in/sign_out
 gem 'devise'
+# Use figaro for ENV variables
+gem 'figaro'
+# Use fog-aws
+gem 'fog-aws'
 # Use tether
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
