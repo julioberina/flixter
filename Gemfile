@@ -28,6 +28,8 @@ gem 'carrierwave', '~> 1.0'
 gem 'carrierwave-aws'
 # Use MiniMagick
 gem 'mini_magick'
+# Use Stripe for payment processing
+gem 'stripe'
 # Use devise for user sign_in/sign_out
 gem 'devise'
 # Use figaro for ENV variables
