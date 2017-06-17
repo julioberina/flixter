@@ -24,6 +24,8 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 # Use simple_form
 gem 'simple_form'
+# Use jquery-ui-rails
+gem 'jquery-ui-rails'
 # Use Carrierwave for image uploading
 gem 'carrierwave', '~> 1.0'
 # Use Carrierwave-AWS for video uploading
